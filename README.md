@@ -4,6 +4,7 @@
 
 <p align="justify">Hi there, I am Dan Darell Reyes, though I prefer to be called simply Dan. I have a background in quality control and assurance, where I served as a Database Document Controller for three years. Currently, I am in the process of transitioning to become a Full-Stack Developer, utilizing the skills and knowledge I gained through my Bachelor of Computer Science in Computer Engineering degree. I am enthusiastic about this new chapter in my career and look forward to the opportunities and challenges that come with it.</p>
 
+## ✨ Some of the stuff I like
 - 🐕 Dog Lover
 - 🥡 🇯🇵 Japanese Cuisine, Japanese Culture, Japanese Idols, JPOP
 - 💻 Coding
